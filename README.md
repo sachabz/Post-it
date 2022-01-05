@@ -1,6 +1,6 @@
-# postit
+# Post-it
 
-## About postit
+## About Post-it
 Postit is a web application that reproduce a postit made in 5 days
 
 ## Created with
