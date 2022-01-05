@@ -1,29 +1,20 @@
-# post
+# postit
 
-## Project setup
-```
-npm install
-```
+## About postit
+Postit is a web application that reproduce a postit made in 5 days
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Created with
+- VueJS3
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Langages
+- CSS3, HTML5
 
-### Run your unit tests
-```
-npm run test:unit
-```
+## Fonctionnalités
+- Responsive
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Versionnement
+Version 1
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Auteurs
+Sacha Blin Zwertvaegher,
+Student of the Coding academy by Epitech
