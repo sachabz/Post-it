@@ -5,6 +5,7 @@ Postit is a web application that reproduce a postit made in 5 days
 
 ## Created with
 - VueJS3
+- School API
 
 ## Langages
 - CSS3, HTML5
